@@ -15,8 +15,6 @@ public class j1998Test {
     // Act
     String result = triangle.getType();
 
-    // Assert
-        Assert.assertEquals("不是三角形", result);// Arrange
 
     @Test
     public void add() throws Exception {
